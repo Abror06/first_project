@@ -1,7 +1,6 @@
 Hello G56 welcome to Git:
 
 Learn to Steps:
-111
 1. Install git 
 2. Register git where you want to push to git   - git init
 3. See status                                   - git status
